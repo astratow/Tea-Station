@@ -8,3 +8,15 @@
 /***************************
 ****	 Variables	 	****
 ***************************/
+:root {
+	--clr-primary: #678E3E;
+	--clr-primary-light: #BEED8C;
+	--clr-primary-grey-1: #102A42;
+	--clr-primary-grey-5: #617D98;
+	--clr-primary-grey-10: #F1F5F8;
+	--clr-white: #FFFFFF;
+	--ff-primary: "Catamaran", sans--serif;
+	--ff-secondary: "Grand Hotel", cursive;
+	--transition: all 0.3s linear;
+	--spacing: 0.25rem;
+}
