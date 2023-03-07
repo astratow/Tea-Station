@@ -137,3 +137,13 @@ p {
 	outline-offset: 0.25rem;
 	padding: 1rem 1.7rem;
 }
+/*content divider*/
+.content-divider {
+	background: linear-gradient(
+		to left,
+		var(--clr-primary),
+		#E9B949,
+		var(--clr-primary)
+	);
+	height: 05.rem;
+}
